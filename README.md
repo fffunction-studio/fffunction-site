@@ -1,2 +1,2 @@
-# fffunction-website
-fffunction.studio
+# fffunction-site
+[fffunction.studio](https://fffunction.studio)
